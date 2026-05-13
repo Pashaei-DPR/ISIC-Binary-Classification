@@ -30,7 +30,10 @@ Validation results are shown in the logs, and the best model is saved as a .pth 
 
 <img width="806" height="364" alt="image" src="https://github.com/user-attachments/assets/f89c525d-45c2-4035-adc3-c9051d764895" />
 
-your files must be as below.
+your files must be as below. https://challenge.isic-archive.com/data/
 
 <img width="891" height="364" alt="image" src="https://github.com/user-attachments/assets/833a6855-d967-4520-b012-7119f8a8b498" />
+
+
+
 
