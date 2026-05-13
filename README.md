@@ -27,3 +27,11 @@ The notebooks will perform stratified subsampling and create smaller Excel files
 The model training runs automatically with the defined settings.
 
 Validation results are shown in the logs, and the best model is saved as a .pth file.
+
+<img width="806" height="364" alt="image" src="https://github.com/user-attachments/assets/f89c525d-45c2-4035-adc3-c9051d764895" />
+
+
+<img width="673" height="76" alt="image" src="https://github.com/user-attachments/assets/5814de2c-006a-4777-bad0-508340ace7fc" />
+
+
+
